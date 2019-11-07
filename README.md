@@ -1,3 +1,3 @@
 # astah* Example
-## ScreenTransitionDiagram
+### ScreenTransitionDiagram
 画面遷移図
